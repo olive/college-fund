@@ -1,12 +1,14 @@
 syllabus
 ========
 
-I. python
- 1. basics (Ex1.py)
- 2. objects (Ex2.py)
- 3. cgi basics (Ex3.py)
+Module 001 - Python basics
+--------------------------
+1. basics ([Ex1.py](module-001/Ex1.py))
+2. objects ([Ex2.py](module-001/Ex2.py))
+3. cgi basics ([Ex3.py](module-001/cgi/Ex3.py))
 
-II. web application development
+Module 002 - Web application basics
+-----------------------------------
  1. basic username and password demo
   1. connecting to the database
   2. sql basics
@@ -22,12 +24,18 @@ II. web application development
   5. multi-file projects
   6. saving and keeping track of user session data
   7. security in sessions
- 2. collaborative messageboard
-  1. database design
-  . site layout
 
-    ??) * horizontal and vertical scaling
 
+Module 003 - Creating a web application
+---------------------------------------
+1. collaborative messageboard
+ 1. database design
+ 2. site layout
+
+
+    ??) \* horizontal and vertical scaling
+    
+    
 III. computer science fundamentals
  1. † regular expressions
  2. sorting
