@@ -1,0 +1,30 @@
+
+http://www.fosshub.com/KiTTY.html#clickToStartDownload
+
+Key:
+
+a word or phrase surrounded by `backquotes` means that it should be interpreted
+as a command run on the linux command line, or a line of code in a program source
+
+(?) means optional/"fun fact" info that you might be curious about but isn't
+necessary right now.
+
+* surrounding a term means that i'll let you wikipedia it if you want to know more,
+or you can ask me. It's something probably worth knowing but is way beyond the
+scope of the exercise
+
+Terms enclosed in ``quotes like this'' are specific terms rather than being
+merely descriptive or metaphorical. Cmp. A metal pointy stick with ``Broadsword``.
+
+Additional resources:
+
+Olivia of course is the best way to learn python, but having additional resources
+can't hurt either. I recommend the following:
+
+http://learnpythonthehardway.org/book/
+http://inventwithpython.com/chapters/
+http://webpy.org/
+
+
+
+
